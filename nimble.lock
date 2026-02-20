@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "packages": {
+    "vmath": {
+      "version": "2.0.1",
+      "vcsRevision": "ddfcd738578c47ed3330b917f5efecf5a15128b2",
+      "url": "https://github.com/treeform/vmath",
+      "downloadMethod": "git",
+      "dependencies": [],
+      "checksums": {
+        "sha1": "03d7a8ee62c516dad3fff8debe54958d7a3f142e"
+      }
+    }
+  },
+  "tasks": {}
+}

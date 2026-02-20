@@ -1,0 +1,28 @@
+# Directories to ignore
+nimcache/
+build/
+dist/
+
+# Executables (platform-specific)
+*.exe
+*.out
+/nimlangserver # Specific to Nim's language server, but a good general ignore
+
+# Object and library files
+*.o
+*.ko
+*.so
+*.dll
+*.lib
+*.a
+
+bin
+nimble.develop
+nimble.paths
+nimbledeps
+dprint.json # Used by some development tools
+
+# Log and temporary files
+*.log
+*.swp
+*~
